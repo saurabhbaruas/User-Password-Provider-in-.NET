@@ -1,0 +1,11 @@
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\obj\Debug\UsrnmPaswrd_Provider.Login.resources
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\obj\Debug\UsrnmPaswrd_Provider.Properties.Resources.resources
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\obj\Debug\UsrnmPaswrd_Provider.Form1.resources
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\obj\Debug\UsrnmPaswrd_Provider.csproj.GenerateResource.Cache
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\obj\Debug\UsrnmPaswrd_Provider.csproj.CoreCompileInputs.cache
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\bin\Debug\UsrnmPaswrd_Provider.exe.config
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\bin\Debug\UsrnmPaswrd_Provider.exe
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\bin\Debug\UsrnmPaswrd_Provider.pdb
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\obj\Debug\UsrnmPaswrd_Provider.exe
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\obj\Debug\UsrnmPaswrd_Provider.pdb
+C:\Users\saurabh\source\repos\UsrnmPaswrd_Provider\UsrnmPaswrd_Provider\obj\Debug\UsrnmPaswrd_Provider.csprojAssemblyReference.cache
